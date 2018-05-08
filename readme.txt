@@ -1,4 +1,15 @@
 ﻿learn git
+//设置git的name和email（全局）
+git config --global --user.name "yourname"
+git config --global --user.email "youremail"
+//创建目录 选择目录
+mkdir learnGit
+cd learnGit
+//显示当前路径
+pwd
+//初始化当前目录为仓库
+git init
+
 //返回版本
 git reset --hard commit_id
 //返回前一个版本
