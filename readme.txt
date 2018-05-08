@@ -9,6 +9,12 @@ cd learnGit
 pwd
 //初始化当前目录为仓库
 git init
+//查看git提交历史
+git log
+//简洁的提交历史
+git log --pretty=online
+//查看git命令历史（恢复回退版本之前的最新版本的时候）
+git reflog
 
 //返回版本
 git reset --hard commit_id
