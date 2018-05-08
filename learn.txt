@@ -10,6 +10,7 @@
 版本5
 
 
+<<<<<<< HEAD
 版本6
 
 
@@ -18,3 +19,6 @@
 
 CCCCCCCCCCCCCCCCCCCCCCCCCCCC
 DDDDDDDDDDDDDDDDDDDDDDDDDDD
+=======
+版本6
+>>>>>>> parent of 8c3a348... test reset11112222
