@@ -29,3 +29,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 $ git pull --allow-unrelated-histories
 //merge 将分支merge到现在的分支上
 git merge <branch>
+//修改commit的信息
+git commit --amend
